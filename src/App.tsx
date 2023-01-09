@@ -1,3 +1,4 @@
+import { Navbar } from "./components/navbar"
 import { GlobalStyle } from "./GlobalStyle"
 
 export const App = () => {
@@ -5,7 +6,7 @@ export const App = () => {
   return (
     <>
     <GlobalStyle />
-    olá
+    <Navbar />
     </>
   )
 }
