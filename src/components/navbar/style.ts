@@ -1,5 +1,7 @@
 import styled from "styled-components";
 import { ShoppingCartOutlined, SearchOutlined, RoomOutlined, ArrowDropDown } from '@mui/icons-material'
+import flag from '../../assets/goal.png'
+
 
 export const Container = styled.div`
     display: flex;
@@ -8,7 +10,9 @@ export const Container = styled.div`
     color: #fff;
     background-color: #131a22;
 `
-export const Logo = styled.div``
+export const Logo = styled.div`
+    
+`
 export const Text = styled.div``
 export const Wrapper = styled.div``
 export const Searchbox = styled.div``
