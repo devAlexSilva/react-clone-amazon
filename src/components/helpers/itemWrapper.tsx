@@ -5,6 +5,7 @@ interface IProps {
     alignItems?: string
     maxWidth?: string
     margin?: string
+    notBorderHover?: string
     children?: React.ReactNode
 }
 
