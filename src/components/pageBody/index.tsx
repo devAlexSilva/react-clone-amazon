@@ -25,8 +25,8 @@ export const PageBody = () => {
 
                 <S.productContainer>
                     {productDetails.map(item => (
-                        <S.wrapper flexDirection='column'>
-                            <S.imageContainer>
+                        <S.wrapper className='products' flexDirection='column'>
+                            <S.imageContainer className='images'>
                                 <S.image src={item.src}/>
                             </S.imageContainer>
                             <S.text>{item.name}</S.text>
@@ -53,6 +53,7 @@ export const PageBody = () => {
                         </S.wrapper>
                     ))}
                 </S.productContainer>
+
             </S.rightContainer>
         </S.container>
     )

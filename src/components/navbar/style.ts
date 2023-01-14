@@ -12,7 +12,6 @@ export const Container = styled.div`
 `
 export const Logo = styled.img`
     width: 6rem;
-    aspect-ratio: 6/3;
     border: 1px solid #121a22;
     padding: .2rem .1rem;
     cursor: pointer;

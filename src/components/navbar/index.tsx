@@ -1,5 +1,5 @@
 import * as S from './style'
-import flag from '../../assets/goal.gif'
+import flag from '../../assets/goal.png'
 import { ShoppingCartOutlined, SearchOutlined, RoomOutlined, ArrowDropDown } from '@mui/icons-material'
 
 export const Navbar = () => {

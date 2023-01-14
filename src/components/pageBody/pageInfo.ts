@@ -29,7 +29,7 @@ export const productDetails=[
     {
         name:"Headphone basico CR2032 3 Volt Lithium Batteria de Lithium",
         by: "por Amazon Basics",
-        starcount: "59,531",
+        starcount: "52",
         price: "",
         shipping: "",
         available: "Currently unavailable.",
@@ -56,7 +56,7 @@ export const productDetails=[
     {
         name:"Headphone basico CR2032 3 Volt Lithium Batteria de Lithium",
         by: "por Amazon Basics",
-        starcount: "59,531",
+        starcount: "52",
         price: "",
         shipping: "",
         available: "Currently unavailable.",
@@ -83,7 +83,7 @@ export const productDetails=[
     {
         name:"Headphone basico CR2032 3 Volt Lithium Batteria de Lithium",
         by: "por Amazon Basics",
-        starcount: "59,531",
+        starcount: "52",
         price: "",
         shipping: "",
         available: "Currently unavailable.",
