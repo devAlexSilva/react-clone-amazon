@@ -6,7 +6,7 @@ export const Container = styled.div`
     justify-content: space-evenly;
     align-items: center;
     color: #fff;
-    background-color: 131a22;
+    background-color: #131a22;
 `
 export const Logo = styled.div``
 export const Text = styled.div``
